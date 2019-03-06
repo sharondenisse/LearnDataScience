@@ -56,7 +56,7 @@ Today github, tomorrow the world.
 How
 ---
 
-Learn Data Science is based on content developed by me (Nitin Borwankar) for the Open Data Science Training project http://opendst.org
+Learn Data Science is based on content developed by me (Nitin Borwankar) for the Open Data Science Training project  http://learnds.com/   (This URL is no longer functional: http://opendst.org)
 Most of the content (circa July 2013) is copyright (c) Alpine Data Labs as per the license at opendst.org, and is freely available.
 Extensions to the content embodied in this projects content are also released under the same license - see the LICENSE.txt file.
 
